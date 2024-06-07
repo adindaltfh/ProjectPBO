@@ -1,0 +1,16 @@
+{
+    "name": "dila/pbo",
+    "description": "Pemrograman Berorientasi Objek",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dila"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "App\\": "App/"
+        }
+    }
+}
